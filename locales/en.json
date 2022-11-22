@@ -1,0 +1,20 @@
+{
+  "project-title": "DiPhyx | CFD Platform",
+  "dashboard": "Dashboard",
+  "forget-password": "Forget Password",
+  "verify-forgot-password": "Verify OTP Code",
+  "change-password": "Change Password",
+  "register-information": "Register Information",
+  "register-tools": "Register Tools",
+  "verify-register": "Verify Register",
+  "register-experience": "Register Experience",
+  "profile": "Profile",
+  "login": "Login",
+  "result": "Result",
+  "result-list": "Results List",
+  "edit-tabs": "Edit Tabs",
+  "run": "Run",
+  "new-run": "New Run",
+  "results-list": "Result List",
+  "clusters": "Clusters"
+}
